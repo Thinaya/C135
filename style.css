@@ -6,4 +6,6 @@
 
 canvas{
     box-shadow:5px 5px 5px lightseagreen;
+    border-radius: 10px;
+    margin-top: 180px;
 }
